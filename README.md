@@ -3,4 +3,4 @@
   *Can edit and mark as completed
   *Can remove by double clicking
 # Task 2
-  *Interactive calculator used for simple calculations
+  *Interactive calculator used for simple calculations.
